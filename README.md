@@ -1,15 +1,14 @@
-# Robot module for [`mc_rtc`](https://jrl-umi3218.github.io/mc_rtc/) representing a human model
+# Robot module for [`mc_rtc`](https://jrl-umi3218.github.io/mc_rtc/) representing a puppet model
 
 ## Required packages
 
 * [`mc_rtc`](https://jrl-umi3218.github.io/mc_rtc/)
-* [`human_description`](https://github.com/jrl-umi3218/human_description)
+* [`pupper_description`](https://github.com/antodld/puppet_description)
 
 ## Building and installing robot module
 
 ```bash
-git clone https://github.com/jrl-umi3218/mc_human
-cd mc_human
+cd mc_puppet
 mkdir build
 cd build
 cmake ..
