@@ -1,0 +1,6 @@
+@PACKAGE_INIT@
+
+include(CMakeFindDependencyMacro)
+find_package(mc_rtc REQUIRED)
+
+check_required_components(mc_human)

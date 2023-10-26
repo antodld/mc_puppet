@@ -1,0 +1,4 @@
+#pragma once
+
+constexpr auto SIMPLE_HUMAN_DESCRIPTION_PATH = "@SIMPLE_HUMAN_DESCRIPTION_PATH@";
+
