@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.1)
+cmake_minimum_required(VERSION 4.0)
 project(mc_simple_human LANGUAGES CXX VERSION 1.0.0)
 enable_testing()
 set(CMAKE_CXX_STANDARD 11)
